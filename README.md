@@ -1,4 +1,4 @@
-```md
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00E5FF&height=200&section=header&text=Roman%20Kannaujiya&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">Hi 👋, I'm Roman Kannaujiya</h1>
